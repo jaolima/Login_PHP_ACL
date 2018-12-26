@@ -4,7 +4,7 @@
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
 define('DB_PASS','senha123');
-define('DB_NAME', 'acl');
+define('DB_NAME', 'siscvet');
 
 //habilita todas as exibições de erros
 ini_set('display_errors', true);
